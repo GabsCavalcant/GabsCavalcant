@@ -20,15 +20,8 @@
   </a>
 </p>
 
-<h3 align="center">💡 Foco Principal e Projetos</h3>
-<p align="center">
-  Apesar das estatísticas automáticas, meu foco principal de estudo e desenvolvimento está distribuído da seguinte forma:
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-30_Projetos-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML-4_Projetos-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/Python-3_Projetos-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+
+
 <p align="center">
   <img src="https://64.media.tumblr.com/tumblr_m11ypfvyjB1qgk8fv.gif" alt="Divisor" style="width: 100%;"/>
 </p>
