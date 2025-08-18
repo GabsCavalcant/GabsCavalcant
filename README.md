@@ -2,9 +2,9 @@
   <img src="https://media.tenor.com/images/f411a9900809298d854398071b288310/tenor.gif" alt="Luffy Sorrindo" width="300"/>
 </p>
 
-<h1 align="center">Olá, eu sou o Gabriel Cavalcante, Mas pode me chamar de Cant👋</h1>
+<h1 align="center">Olá, eu sou o Gabriel Cavalcante, mas pode me chamar de Cant 👋</h1>
 <p align="center">
-  Um desenvolvedor apaixonado por tecnologia, sempre explorando o universo computacional para  construir soluções criativas e legais .
+  Um desenvolvedor apaixonado por tecnologia, sempre explorando o universo computacional para construir soluções criativas e legais.
   <br />
   Conecte-se comigo:
 </p>
@@ -20,6 +20,15 @@
   </a>
 </p>
 
+<h3 align="center">💡 Foco Principal e Projetos</h3>
+<p align="center">
+  Apesar das estatísticas automáticas, meu foco principal de estudo e desenvolvimento está distribuído da seguinte forma:
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-30_Projetos-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML-4_Projetos-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/Python-3_Projetos-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 <p align="center">
   <img src="https://64.media.tumblr.com/tumblr_m11ypfvyjB1qgk8fv.gif" alt="Divisor" style="width: 100%;"/>
 </p>
@@ -27,7 +36,8 @@
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
