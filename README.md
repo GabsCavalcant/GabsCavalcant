@@ -44,7 +44,7 @@
 
 <h3 align="center">🐍 GitHub Snake Game</h3>
 <p align="center">
-  <img src="https://github.com/GabsCavalcant/GabsCavalcant/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GabsCavalcant/GabsCavalcant/output/github-contribution-grid-snake.svg" alt="Snake animation" />g" alt="Snake animation" />
 </p>
 
 <p align="center">
