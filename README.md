@@ -4,9 +4,7 @@
 
 <h1 align="center">Olá, eu sou o Gabriel Cavalcante (Cant) 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;Apaixonado+por+Python+%26+Java;Construindo+soluções+criativas" alt="Typing SVG" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/">
